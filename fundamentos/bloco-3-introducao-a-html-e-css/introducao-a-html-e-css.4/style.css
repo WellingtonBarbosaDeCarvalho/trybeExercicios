@@ -1,0 +1,101 @@
+body{
+    background-color: rgb(21, 16, 70);
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    text-align: center;
+}
+header{
+    font-size: 25px;
+    background-color: rgb(27, 0, 53);
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: 'Space Mono', monospace;
+    border-radius: 4px;
+    font-weight: bold;
+    
+}
+.navMenu{
+    text-decoration: none;
+    background-color: rgb(25, 2, 47);
+    color: white;
+    padding: 10px;
+    margin-inline: 100px;
+    border-radius: 4px;
+    font-weight: bold;
+
+}
+#imagemStomatopodaAprensentacao{
+    
+    width: 400x;
+    height: 275px;
+    border-radius: 20%;
+    margin-bottom: 20px;
+    display: inline-block;
+    
+    
+}
+#stomatopodaApresentacao{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Stardos Stencil', cursive;
+    
+}
+table{
+    caption-side: bottom;
+    padding: 10px;
+    float: right;
+    border-radius: 8px;
+    color: rgb(125, 0, 0);
+    background-color: rgb(201, 164, 1);
+    display: inline-block;
+    margin-top: 100px;
+    margin-bottom: 135px;
+    margin-left: 20px;
+}
+table td{
+color:rgb(19, 6, 94);
+}
+#imagemStomatopodaAprensentacaoDois{
+    width: 250px;
+    height: 325px;
+    float: left;
+    display: inline-block;
+    border-radius: 25%;
+
+}
+.curiosidade{
+    display: block;
+    font-size: 35px;
+    max-width: 85%;
+    text-align: center;
+}
+
+.linksReferenciais{
+    
+    text-decoration: none;
+    background-color: rgb(25, 2, 47);
+    color: white;
+    padding: 10px;
+    margin-inline: 1px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+footer{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: 10px;
+    text-align: left;
+}
+.tituloCuriosidade{
+    max-width: 100%;
+    text-align: center;
+    padding-left: 350px;
+}
+
+#video{
+    background-color: rgb(31, 4, 56);
+    padding: 20px;
+    
+}
