@@ -24,7 +24,7 @@
 // }
 // console.log (candidato)
 //
-let pessoaCanditada = 'aprovada';
+let pessoaCanditada = 'lista';
 switch(pessoaCanditada){
     case 'aprovada':
         console.log('Você foi aprovada no processo selêtivo Trybe !')
